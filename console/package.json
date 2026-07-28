@@ -30,7 +30,7 @@
     "@connectrpc/connect": "^2.1.1",
     "@connectrpc/connect-web": "^2.1.1",
     "@ctrl/ngx-codemirror": "^7.0.0",
-    "@fortawesome/angular-fontawesome": "^4.0.0",
+    "@fortawesome/angular-fontawesome": "^5.1.0",
     "@fortawesome/fontawesome-svg-core": "^7.2.0",
     "@fortawesome/free-brands-svg-icons": "^7.2.0",
     "@netlify/build-info": "^10.5.1",
